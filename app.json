@@ -19,9 +19,9 @@
       "value": "GIFTED TECH"
     },
     "OWNER_NUMBER": {
-      "description": "Put Bot Owner Numbers",
+      "description": "254742948136",
       "required": true,
-      "value": "254110853827"
+      "value": "254742948136"
     },
     "AUTO_STICKER": {
       "description": "Put true/false to enable auto conversion of videos and photos as stickers",
